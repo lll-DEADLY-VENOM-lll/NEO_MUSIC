@@ -1,12 +1,12 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center">
-     ──「 sᴘʏ ✘ ᴍᴜsɪᴄ 」──
+     ──「 ʜʏᴘᴇʀ ✘ ᴍᴜsɪᴄ 」──
 </h2>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"><a href="https://t.me/HONEY_SINGH_121"><img src="https://telegra.ph/file/abc96d1ec9d101df8f988.jpg"></a></p>
+<p align="center"><a href="https://t.me/GODHYPER_O_P"><img src="https://iili.io/F0aiAdu.md.jpg"></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
  <p align="center">
@@ -81,7 +81,7 @@ sudo apt-get install python3-pip -y
 sudo pip3 install -U pip
 curl -fssL
 https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
-git clone https://github.com/stkeditz/SpyMusic&& cd SpyMusic
+git clone https://github.com/NEO-O-P/AUNU_MUSIC cd AUNU_MUSIC
 pip3 install -U -r requirements.txt
 bash setup
 sudo apt install tmux
