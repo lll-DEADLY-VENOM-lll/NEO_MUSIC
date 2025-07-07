@@ -89,6 +89,9 @@ tmux kill-session
 tmux
 bash start
 Ctrl+b then d
+screen -S AUNU_MUSIC
+bash start
+screen -r AUNU_MUSIC
 ```
 
 and to stop the whole bot,
