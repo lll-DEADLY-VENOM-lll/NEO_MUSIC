@@ -91,6 +91,7 @@ bash start
 Ctrl+b then d
 screen -S AUNU_MUSIC
 bash start
+To detach the screen, press Ctrl+A then D
 screen -r AUNU_MUSIC
 ```
 
