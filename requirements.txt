@@ -1,4 +1,4 @@
-git+https://github.com/prashantsahlot/FrozenGram.git
+git+https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.23.zip
 py-tgcalls
 yt-dlp
 aiohttp
