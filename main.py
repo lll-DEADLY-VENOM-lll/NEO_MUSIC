@@ -40,7 +40,7 @@ from pyrogram.types import (
 )
 from pyrogram.errors import RPCError
 from pytgcalls import PyTgCalls, idle
-from pytgcalls.types import MediaStream
+from pytgcalls.types import name MediaStream
 from pytgcalls import filters as fl
 from pytgcalls.types import (
     ChatUpdate,
