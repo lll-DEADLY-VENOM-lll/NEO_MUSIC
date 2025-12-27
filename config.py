@@ -23,9 +23,9 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOGGER_ID = int(getenv("LOGGER_ID", "-1002512951867"))
 
-OWNER_ID = int(getenv("OWNER_ID", "8140988754"))
+OWNER_ID = int(getenv("OWNER_ID", "7967418569"))
 
-BOT_USERNAME = getenv("BOT_USERNAME" , "Annu_Music_Robot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@RADHAVIBEBOT")
 
 COMMAND_HANDLER = getenv("COMMAND_HANDLER", "! / .").split()
 
@@ -42,8 +42,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", ""
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ABOUT_VENOM_OP")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Scince_sangrah_official_annu_sir")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/about_deadly_venom")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NOBITA_SUPPORT")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
@@ -86,12 +86,12 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://iili.io/FcUbOvV.md.jpg"
+    "START_IMG_URL", "https://graph.org/file/78a75fcd221142c98762d-cc5c7a176554c2a2cb.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://iili.io/FcUmaMg.md.jpg"
+    "PING_IMG_URL", "https://graph.org/file/af5741813887a21d7f652-1f165bf1bd7fdee6ed.jpg"
 )
-PLAYLIST_IMG_URL = "https://iili.io/FcUDpdQ.md.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/321e206b8a0ef53cdcf4b-6c599929ea51a5f0d9.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/4a7c28726502e24ea0fe0.jpg"
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/810f874873e1565cf5732.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/16d7dd76f4ce8b8b01fdf.jpg"
